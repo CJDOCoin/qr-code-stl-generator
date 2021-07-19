@@ -1,2 +1,4 @@
 qrcode
 pillow
+numpy
+stl_tools
